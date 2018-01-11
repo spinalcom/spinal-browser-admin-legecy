@@ -1,0 +1,26 @@
+{
+  "name": "spinal-browser-admin",
+  "version": "1.0.0",
+  "homepage": "https://github.com/spinalcom/spinal-browser-admin",
+  "authors": [
+    "laurent <htd.laurent@gmail.com>"
+  ],
+  "description": "Utility to manage the SpinalCom FileSystem, users and more ...",
+  "main": "index.html",
+  "license": "SpinalCore",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bower": "^1.8.2",
+    "spinal-core-hub": "git+https://github.com/spinalcom/spinal-core-hub.git#3.0.0",
+    "spinal-core-connectorjs": "git+https://github.com/spinalcom/spinal-core-connectorjs.git#2.3.0"
+  },
+  "scripts": {},
+  "devDependencies": {}
+}

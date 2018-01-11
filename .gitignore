@@ -1,0 +1,7 @@
+SpinalAdmin/.gen/
+SpinalAdmin/admin.models.js
+SpinalAdmin/admin.stylesheets.css
+SpinalAdmin/admin.views.js
+SpinalAdmin/gen/
+SpinalAdmin/bin/concat_js.pyc
+*~
