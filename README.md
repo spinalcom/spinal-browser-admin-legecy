@@ -15,7 +15,7 @@ Its built-in features include:
 
 ### Pull SpinalHub:v3.0.0 doker image
 ```
-$ docker pull spinalhub:v3.0.0
+$ docker pull spinalcom/spinalhub:v3.0.0
 ```
 ### Install [pm2](https://github.com/Unitech/pm2) globally
 ```
