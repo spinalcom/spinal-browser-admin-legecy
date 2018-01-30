@@ -31,6 +31,9 @@
     "spinal-core-hub": "git+https://github.com/spinalcom/spinal-core-hub.git#3.0.0",
     "spinal-core-connectorjs": "git+https://github.com/spinalcom/spinal-core-connectorjs.git#2.3.0"
   },
-  "scripts": {},
+  "scripts": {
+    "postinstall": "npm run spinal-register",
+    "spinal-register": "spinal-register"
+  },
   "devDependencies": {}
 }
